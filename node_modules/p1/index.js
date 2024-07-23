@@ -1,0 +1,1 @@
+export const aa = "我是export p1"
